@@ -1,9 +1,9 @@
 # carlsbad-patchwork
 Public repository to use during the Carlsbad Patchwork
 ## Mentors
-Alexandra Bourne
-Nick Holden
-Rick Wenfrey
+- Alexandra Bourne
+- Nick Holden
+- Rick Wenfrey
 
 ## Collaborators
 1. 
